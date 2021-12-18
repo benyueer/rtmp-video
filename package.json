@@ -1,0 +1,11 @@
+{
+  "name": "rtmp-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benyueer/rtmp-video.git",
+  "author": "benyueer <347201906@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flv.js": "^1.6.2"
+  }
+}
